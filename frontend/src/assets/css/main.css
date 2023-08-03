@@ -4,20 +4,3 @@
   overflow: hidden;
 }
 
-@media (max-width: 768px) {
-  .b_wlcmTileWrap {
-    min-width: 50%;
-  }
-  .b_wlcmTile {
-    padding: 3px 10px !important;
-  }
-  div#b_sydWelcomeTemplate {
-    margin-top: 2em !important;
-  }
-  .b_wlcmTile p {
-    margin: 3px;
-  }
-  .b_wlcmTile h1 {
-    margin: 5px;
-  }
-}
