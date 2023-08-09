@@ -4,6 +4,7 @@
   overflow: hidden;
 }
 
+/* 新主页移动端样式 */
 @media (max-width: 768px) {
   .b_wlcmTileWrap {
     min-width: 50%;
