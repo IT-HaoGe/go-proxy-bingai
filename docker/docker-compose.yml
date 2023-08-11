@@ -20,3 +20,13 @@ services:
     #   - Go_Proxy_BingAI_SOCKS_PWD=xxx
     #   - Go_Proxy_BingAI_USER_TOKEN_1=xxx
     #   - Go_Proxy_BingAI_USER_TOKEN_2=xxx
+      - Go_Proxy_BingAI_USER_TOKEN_1=7H9j2K1l6Q8w4E5r
+      - Go_Proxy_BingAI_USER_TOKEN_2=4T7y2U1i6O8p9A3s
+      - Go_Proxy_BingAI_USER_TOKEN_3=9D6f2G7h4J1k3L5z
+      - Go_Proxy_BingAI_USER_TOKEN_4=2X1c7V9b6N4m5Q8w
+      - Go_Proxy_BingAI_USER_TOKEN_5=5C9x2Z7a1S4d6F8g
+      - Go_Proxy_BingAI_USER_TOKEN_6=1H6j7K9l2Q8w3E4r
+      - Go_Proxy_BingAI_USER_TOKEN_7=8T9y2U7i4O1p3A5s
+      - ENV Go_Proxy_BingAI_USER_TOKEN_8=3D6f2G7h9J1k8L4z
+      - ENV Go_Proxy_BingAI_USER_TOKEN_9=7X2c1V6b9N8m4Q5w
+      - ENV Go_Proxy_BingAI_USER_TOKEN_10=4C7x2Z1a9S6d8F3g
